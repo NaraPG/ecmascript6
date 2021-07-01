@@ -1,4 +1,4 @@
-# Ecmascript
+# ECMAScript
 
 ## Introduction to ECMAScript
 
